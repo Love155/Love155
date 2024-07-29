@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Love</h1>
 <h3 align="center">Extracting Insights from Data || Analyzing the Future, One Dataset at a Time || Data-Driven Decision Making || Uncovering Hidden Patterns and Trends || Transforming Data into Actionable Intelligence || Illuminating the Path to Better Decisions</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1doqulYpwdG5wsszqf3Hhd&ust=1722345255683000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOjkqJqqzIcDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/a3ef83ff-7b61-4fc7-b5ca-176821c4a491)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=love155&label=Profile%20views&color=0e75b6&style=flat" alt="love155" /> </p>
 
