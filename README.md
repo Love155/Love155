@@ -8,13 +8,7 @@
 
 - 🌱 I’m currently learning **Business Analytics and Data Science**
 
-- 👯 I’m looking to collaborate on a data science project **1. Problem statement or goal 2. Dataset(s) you'll be using 3. Specific tasks or techniques you'd like to work on (e.g., machine learning, data visualization, etc.) 4. Any specific tools or technologies you'd like to use.**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Love155?tab=repositories](https://github.com/Love155?tab=repositories)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/love-4a4458134/](https://www.linkedin.com/in/love-4a4458134/)
-
-- 💬 Ask me about **Share your thoughts, and let's have a conversation!**
 
 - 📫 How to reach me **sunnychhillar155@gmail.com**
 
