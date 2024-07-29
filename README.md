@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Love</h1>
 <h3 align="center">Extracting Insights from Data || Analyzing the Future, One Dataset at a Time || Data-Driven Decision Making || Uncovering Hidden Patterns and Trends || Transforming Data into Actionable Intelligence || Illuminating the Path to Better Decisions</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/04041e98-b787-4b97-8e7b-1afa2719eece)
-">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/f2a97a9f-ca0f-406f-8446-1d7fd5b25036">
 
 
 
