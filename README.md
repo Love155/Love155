@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Love</h1>
 <h3 align="center">Extracting Insights from Data || Analyzing the Future, One Dataset at a Time || Data-Driven Decision Making || Uncovering Hidden Patterns and Trends || Transforming Data into Actionable Intelligence || Illuminating the Path to Better Decisions</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/a3ef83ff-7b61-4fc7-b5ca-176821c4a491)
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/04041e98-b787-4b97-8e7b-1afa2719eece)
 ">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=love155&label=Profile%20views&color=0e75b6&style=flat" alt="love155" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=love155" alt="love155" /></a> </p>
+
 
 - 🌱 I’m currently learning **Business Analytics and Data Science**
 
