@@ -1,7 +1,7 @@
 ![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/user-attachments/assets/e6de198d-5a6a-4bb7-9b08-3294e8093f87)
 
 <h1 align="center">Hi 👋, I'm Love</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">"Passionately Curious Data Scientist | Dedicated to Insights Excellence" from India</h3>
 
 <img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
