@@ -15,9 +15,11 @@
 
 - 📫 How to reach me **sunnychhillar155@gmail.com**
 
+- 👨‍💻 All of my projects are available at **https://love155.github.io/**
+
 - 📄 Know about my experiences [https://www.linkedin.com/in/love-4a4458134/](https://www.linkedin.com/in/love-4a4458134/)
 
-- ⚡ Fun fact **I am Funny**
+- ❤️ I love learning  **New Things!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
